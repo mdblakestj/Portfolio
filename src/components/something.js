@@ -2,8 +2,8 @@ import React from 'react';
 
 const HelpPage = () => (
   <div>
-      We are at Help Page
+      Here are 
   </div>
 )
 
-export default HelpPage;
+export default Projects;
